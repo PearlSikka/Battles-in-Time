@@ -8,6 +8,7 @@ The dataset includes training and test set images which contain groups of card i
 identify a card. Along with the images, two short videos of a selection of cards are also available.
 
 The Tasks
+
 Task-1: Separating out card images from the training set groups of images. 
 
 Task-2: Building Image Matcher
